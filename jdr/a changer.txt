@@ -1,0 +1,21 @@
+accueil
+
+
+Laurie laprunne plus gros
+Jour de reve sans s dans le lien
+
+
+Une effervescence decaler ver la droite
+
+retirer Laurie j'ai 22 ans et Bienvenue avec maj B
+mettre le mot en gras
+"pour plus d'info a la ligne"
+Justify pour tel
+
+
+Adresse un seul D
+
+Dans prestation meme logo que page acceuil
+
+
+margin-top: 2rem;
